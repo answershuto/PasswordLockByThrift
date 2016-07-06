@@ -1,0 +1,71 @@
+2015-4-12 0:01:43: thrift Server Begin！
+2015-4-12 0:02:05: SQLite writeLogin succesed!
+2015-4-12 0:02:05: SQLite writeLoginOnline succesed!
+2015-4-12 0:02:05: connectServer success,session is 2015041200020525274265
+2015-4-12 0:02:10: SQLite writeLoginOnline failed!
+2015-4-12 0:02:27: thrift Server Begin！
+2015-4-12 0:02:30: SQLite writeLogin succesed!
+2015-4-12 0:02:30: SQLite writeLoginOnline succesed!
+2015-4-12 0:02:30: connectServer success,session is 20150412000230230313271
+2015-4-12 0:02:33: SQLite writeLoginOnline failed!
+2015-4-12 0:02:50: thrift Server Begin！
+2015-4-12 0:02:54: SQLite writeLogin succesed!
+2015-4-12 0:02:54: SQLite writeLoginOnline succesed!
+2015-4-12 0:02:54: connectServer success,session is 20150412000254254968511
+2015-4-12 0:03:27: thrift Server Begin！
+2015-4-12 0:03:42: SQLite writeLogin succesed!
+2015-4-12 0:03:42: SQLite writeLoginOnline succesed!
+2015-4-12 0:03:42: connectServer success,session is 20150412000342342518951
+2015-4-12 0:03:48: SQLite writeLoginOnline succesed!
+2015-4-12 0:10:01: thrift Server Begin！
+2015-4-12 0:14:01: thrift Server Begin！
+2015-4-12 0:14:05: SQLite writeLogin succesed!
+2015-4-12 0:14:05: SQLite writeLoginOnline succesed!
+2015-4-12 0:14:05: connectServer success,session is 20150412001405145603468
+2015-4-12 0:14:06: SQLite isSessionOnline succesed!
+2015-4-12 0:14:32: SQLite isSessionOnline succesed!
+2015-4-12 0:14:48: SQLite isSessionOnline succesed!
+2015-4-12 0:17:20: thrift Server Begin！
+2015-4-12 0:17:26: SQLite writeLogin succesed!
+2015-4-12 0:17:26: SQLite writeLoginOnline succesed!
+2015-4-12 0:17:26: connectServer success,session is 201504120017261726020198
+2015-4-12 0:17:50: SQLite isSessionOnline succesed!
+2015-4-12 0:18:18: SQLite writeLogin succesed!
+2015-4-12 0:18:18: SQLite writeLoginOnline succesed!
+2015-4-12 0:18:18: connectServer success,session is 201504120018181818827572
+2015-4-12 10:14:00: thrift Server Begin！
+2015-4-12 10:15:14: thrift Server Begin！
+2015-4-12 10:20:49: thrift Server Begin！
+2015-4-12 10:22:55: thrift Server Begin！
+2015-4-12 10:22:59: SQLite writeLogin succesed!
+2015-4-12 10:22:59: SQLite writeLoginOnline succesed!
+2015-4-12 10:22:59: connectServer success,session is 201504121022592259953267
+2015-4-12 10:23:25: SQLite modifyLoginOnline succesed!
+2015-4-12 10:23:28: SQLite modifyLoginOnline succesed!
+2015-4-12 10:32:40: thrift Server Begin！
+2015-4-12 10:37:31: thrift Server Begin！
+2015-4-12 10:40:01: thrift Server Begin！
+2015-4-12 10:40:16: SQLite writeLogin succesed!
+2015-4-12 10:40:16: SQLite writeLoginOnline succesed!
+2015-4-12 10:40:16: connectServer success,session is 201504121040164016021554
+2015-4-12 10:40:20: SQLite isSessionOnline succesed!
+2015-4-12 10:41:20: thrift Server Begin！
+2015-4-12 10:41:21: SQLite writeLogin succesed!
+2015-4-12 10:41:22: SQLite writeLoginOnline succesed!
+2015-4-12 10:41:22: connectServer success,session is 201504121041214121495062
+2015-4-12 10:41:34: SQLite isSessionOnline succesed!
+2015-4-12 12:28:57: thrift Server Begin！
+2015-4-12 12:29:02: SQLite writeLogin succesed!
+2015-4-12 12:29:02: SQLite writeLoginOnline succesed!
+2015-4-12 12:29:02: connectServer success,session is 20150412122902292735729
+2015-4-12 12:29:05: SQLite delLoginOnline succesed!
+2015-4-12 12:32:47: thrift Server Begin！
+2015-4-12 12:32:51: SQLite writeLogin succesed!
+2015-4-12 12:32:51: SQLite writeLoginOnline succesed!
+2015-4-12 12:32:51: connectServer success,session is 201504121232513251858583
+2015-4-12 12:32:52: SQLite delLoginOnline succesed!
+2015-4-12 12:32:52: SQLite modifyLogin succesed!
+2015-4-12 23:46:03: SQLite writeLogin succesed!
+2015-4-12 23:46:03: SQLite writeLoginOnline succesed!
+2015-4-12 23:46:03: connectServer success,session is 20150412234603463491527
+2015-4-12 23:46:11: SQLite isSessionOnline succesed!

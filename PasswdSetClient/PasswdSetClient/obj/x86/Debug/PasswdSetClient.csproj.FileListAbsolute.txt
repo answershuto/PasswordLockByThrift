@@ -1,0 +1,10 @@
+G:\VS程序\C#\毕业设计\PasswdSetClient\PasswdSetClient\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\VS程序\C#\毕业设计\PasswdSetClient\PasswdSetClient\obj\x86\Debug\PasswdSetClient.mainForm.resources
+G:\VS程序\C#\毕业设计\PasswdSetClient\PasswdSetClient\obj\x86\Debug\PasswdSetClient.Properties.Resources.resources
+G:\VS程序\C#\毕业设计\PasswdSetClient\PasswdSetClient\bin\Debug\PasswdSetClient.exe
+G:\VS程序\C#\毕业设计\PasswdSetClient\PasswdSetClient\bin\Debug\PasswdSetClient.pdb
+G:\VS程序\C#\毕业设计\PasswdSetClient\PasswdSetClient\bin\Debug\Thrift.dll
+G:\VS程序\C#\毕业设计\PasswdSetClient\PasswdSetClient\obj\x86\Debug\PasswdSetClient.exe
+G:\VS程序\C#\毕业设计\PasswdSetClient\PasswdSetClient\obj\x86\Debug\PasswdSetClient.pdb
+G:\VS程序\C#\毕业设计\可执行文件\锁-客户端-修改密码\PasswdSetClient.exe
+G:\VS程序\C#\毕业设计\可执行文件\锁-客户端-修改密码\PasswdSetClient.pdb

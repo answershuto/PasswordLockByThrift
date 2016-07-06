@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link href="style.css" rel="stylesheet" type="text/css"/>
+<title>Thrift module: mythrift</title></head><body>
+<div class="container-fluid">
+<h1>Thrift module: mythrift</h1>
+<table class="table-bordered table-striped table-condensed"><thead><th>Module</th><th>Services</th><th>Data types</th><th>Constants</th></thead>
+<tr>
+<td>mythrift</td><td><a href="#Svc_passwordLock">passwordLock</a><br/>
+<ul>
+<li><a href="#Fn_passwordLock_ResetPasswd">ResetPasswd</a></li>
+<li><a href="#Fn_passwordLock_connectServer">connectServer</a></li>
+<li><a href="#Fn_passwordLock_disconnectServer">disconnectServer</a></li>
+<li><a href="#Fn_passwordLock_inputPasswd">inputPasswd</a></li>
+<li><a href="#Fn_passwordLock_keepAlive">keepAlive</a></li>
+<li><a href="#Fn_passwordLock_modifyPasswd">modifyPasswd</a></li>
+</ul>
+</td>
+<td><a href="#Struct_AirException">AirException</a><br/>
+<a href="#Enum_AirExceptionType">AirExceptionType</a><br/>
+</td>
+<td></code></td>
+</tr></table>
+<hr/><h2 id="Enumerations">Enumerations</h2>
+<div class="definition"><h3 id="Enum_AirExceptionType">Enumeration: AirExceptionType</h3>
+错误类型
+<br/><br/><table class="table-bordered table-striped table-condensed">
+<tr><td><code>PASSWD_EXCEPTION</code></td><td><code>0</code></td><td>
+</td></tr>
+<tr><td><code>USER_DIONLINE</code></td><td><code>1</code></td><td>
+</td></tr>
+</table></div>
+<hr/><h2 id="Structs">Data structures</h2>
+<div class="definition"><h3 id="Struct_AirException">Exception: AirException</h3>
+<table class="table-bordered table-striped table-condensed"><thead><th>Key</th><th>Field</th><th>Type</th><th>Description</th><th>Requiredness</th><th>Default value</th></thead>
+<tr><td>1</td><td>type</td><td><code><a href="mythrift.html#Enum_AirExceptionType">AirExceptionType</a></code></td><td>错误类型
+</td><td>required</td><td></td></tr>
+<tr><td>2</td><td>errorCode</td><td><code>i64</code></td><td>错误码
+</td><td>required</td><td></td></tr>
+<tr><td>3</td><td>errorMessage</td><td><code>string</code></td><td>错误消息
+</td><td>required</td><td></td></tr>
+<tr><td>4</td><td>debugMessage</td><td><code>string</code></td><td>调试信息
+</td><td>required</td><td></td></tr>
+</table><br/>调用错误
+<br/></div><hr/><h2 id="Services">Services</h2>
+<h3 id="Svc_passwordLock">Service: passwordLock</h3>
+<div class="definition"><h4 id="Fn_passwordLock_connectServer">Function: passwordLock.connectServer</h4>
+<pre><code>string</code> connectServer(<code>string</code> strDevCode)
+    throws <code><a href="mythrift.html#Struct_AirException">AirException</a></code>
+</pre>连接服务器,返回Session
+<br/><br/><h4 id="Parameters_passwordLock_connectServer">Parameters</h4>
+<table class="table-bordered table-striped table-condensed"><thead><th>Name</th><th>Description</th></thead><tr><td>strDevCode</td><td>设备编码(加密)
+</td></tr>
+</table><br/><h4 id="Exceptions_passwordLock_connectServer">Exceptions</h4>
+<table class="table-bordered table-striped table-condensed"><thead><th>Type</th><th>Description</th></thead><tr><td>AirException</td><td>抛出异常
+</td></tr>
+</table></div><div class="definition"><h4 id="Fn_passwordLock_disconnectServer">Function: passwordLock.disconnectServer</h4>
+<pre><code>void</code> disconnectServer(<code>string</code> Session)
+    throws <code><a href="mythrift.html#Struct_AirException">AirException</a></code>
+</pre>与服务器断开连接
+<br/><br/><h4 id="Parameters_passwordLock_disconnectServer">Parameters</h4>
+<table class="table-bordered table-striped table-condensed"><thead><th>Name</th><th>Description</th></thead><tr><td>Session</td><td>用户Session
+</td></tr>
+</table><br/><h4 id="Exceptions_passwordLock_disconnectServer">Exceptions</h4>
+<table class="table-bordered table-striped table-condensed"><thead><th>Type</th><th>Description</th></thead><tr><td>AirException</td><td>抛出异常
+</td></tr>
+</table></div><div class="definition"><h4 id="Fn_passwordLock_keepAlive">Function: passwordLock.keepAlive</h4>
+<pre><code>void</code> keepAlive(<code>string</code> Session)
+    throws <code><a href="mythrift.html#Struct_AirException">AirException</a></code>
+</pre>保活
+<br/><br/><h4 id="Parameters_passwordLock_keepAlive">Parameters</h4>
+<table class="table-bordered table-striped table-condensed"><thead><th>Name</th><th>Description</th></thead><tr><td>Session</td><td>用户Session
+</td></tr>
+</table><br/><h4 id="Exceptions_passwordLock_keepAlive">Exceptions</h4>
+<table class="table-bordered table-striped table-condensed"><thead><th>Type</th><th>Description</th></thead><tr><td>AirException</td><td>抛出异常
+</td></tr>
+</table></div><div class="definition"><h4 id="Fn_passwordLock_inputPasswd">Function: passwordLock.inputPasswd</h4>
+<pre><code>void</code> inputPasswd(<code>string</code> Session,
+                 <code>i32</code> iLockType,
+                 <code>string</code> strPassword)
+    throws <code><a href="mythrift.html#Struct_AirException">AirException</a></code>
+</pre>输入密码
+<br/><br/><h4 id="Parameters_passwordLock_inputPasswd">Parameters</h4>
+<table class="table-bordered table-striped table-condensed"><thead><th>Name</th><th>Description</th></thead><tr><td>Session</td><td>用户Session
+</td></tr>
+<tr><td>iLockType</td><td>锁类型
+</td></tr>
+<tr><td>strPassword</td><td>密码
+</td></tr>
+</table><br/><h4 id="Exceptions_passwordLock_inputPasswd">Exceptions</h4>
+<table class="table-bordered table-striped table-condensed"><thead><th>Type</th><th>Description</th></thead><tr><td>AirException</td><td>抛出异常
+</td></tr>
+</table></div><div class="definition"><h4 id="Fn_passwordLock_ResetPasswd">Function: passwordLock.ResetPasswd</h4>
+<pre><code>void</code> ResetPasswd(<code>string</code> strDevCode,
+                 <code>i32</code> iLockType,
+                 <code>string</code> strPassword)
+    throws <code><a href="mythrift.html#Struct_AirException">AirException</a></code>
+</pre>重置密码
+<br/><br/><h4 id="Parameters_passwordLock_ResetPasswd">Parameters</h4>
+<table class="table-bordered table-striped table-condensed"><thead><th>Name</th><th>Description</th></thead><tr><td>strDevCode</td><td>加密后的设备编码：使得只有某些指定设备才可以进行重置密码，防止黑客通过抓包得到接口并直接调用接口
+</td></tr>
+<tr><td>iLockType</td><td>锁类型
+</td></tr>
+<tr><td>strPassword</td><td>密码
+</td></tr>
+</table><br/><h4 id="Exceptions_passwordLock_ResetPasswd">Exceptions</h4>
+<table class="table-bordered table-striped table-condensed"><thead><th>Type</th><th>Description</th></thead><tr><td>AirException</td><td>抛出异常
+</td></tr>
+</table></div><div class="definition"><h4 id="Fn_passwordLock_modifyPasswd">Function: passwordLock.modifyPasswd</h4>
+<pre><code>void</code> modifyPasswd(<code>string</code> strOldPasswd,
+                  <code>string</code> strNewPasswd,
+                  <code>i32</code> iLockType)
+    throws <code><a href="mythrift.html#Struct_AirException">AirException</a></code>
+</pre>修改密码
+<br/><br/><h4 id="Parameters_passwordLock_modifyPasswd">Parameters</h4>
+<table class="table-bordered table-striped table-condensed"><thead><th>Name</th><th>Description</th></thead><tr><td>strOldPasswd</td><td></td></tr>
+<tr><td>strNewPasswd</td><td></td></tr>
+<tr><td>iLockType</td><td>锁类型
+</td></tr>
+</table><br/><h4 id="Exceptions_passwordLock_modifyPasswd">Exceptions</h4>
+<table class="table-bordered table-striped table-condensed"><thead><th>Type</th><th>Description</th></thead><tr><td>AirException</td><td>抛出异常
+</td></tr>
+</table></div></div></body></html>

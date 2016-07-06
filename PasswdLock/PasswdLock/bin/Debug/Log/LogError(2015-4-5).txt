@@ -1,0 +1,26 @@
+2015-4-5 12:18:46: 不存在Log文件夹
+2015-4-5 12:19:51: 存在Log文件夹
+2015-4-5 12:21:01: 存在Log文件夹
+2015-4-5 12:21:57: 存在Log文件夹
+2015-4-5 12:21:57: thrift Server Begin！
+2015-4-5 12:22:27: thrift Server Begin！
+2015-4-5 12:23:31: thrift Server Begin！
+2015-4-5 12:23:39: connectServer success,session is aaa
+2015-4-5 12:34:10: thrift Server Begin！
+2015-4-5 12:34:24: connectServer success,session is aaa
+2015-4-5 12:35:32: thrift Server Begin！
+2015-4-5 12:37:37: thrift Server Begin！
+2015-4-5 12:39:52: thrift Server Begin！
+2015-4-5 12:40:12: thrift Server Begin！
+2015-4-5 12:40:20: thrift Server Begin！
+2015-4-5 12:40:31: thrift Server Begin！
+2015-4-5 12:40:41: thrift Server Begin！
+2015-4-5 12:41:51: thrift Server Begin！
+2015-4-5 12:41:58: thrift Server Begin！
+2015-4-5 12:42:03: thrift Server Begin！
+2015-4-5 12:42:13: thrift Server Begin！
+2015-4-5 12:42:27: thrift Server Begin！
+2015-4-5 12:42:45: thrift Server Begin！
+2015-4-5 12:42:57: connectServer success,session is aaa
+2015-4-5 12:47:32: thrift Server Begin！
+2015-4-5 12:47:39: connectServer success,session is 201504051247394739908380

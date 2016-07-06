@@ -1,0 +1,205 @@
+2015-5-7 22:30:16: thrift Server Begin！
+2015-5-7 22:30:20: SQLite writeLogin succesed!
+2015-5-7 22:30:20: SQLite writeLoginOnline succesed!
+2015-5-7 22:30:20: connectServer success,session is 201505072230203020595727
+2015-5-7 22:30:25: SQLite delLoginOnline succesed!
+2015-5-7 22:30:25: SQLite modifyLogin succesed!
+2015-5-7 22:31:46: SQLite queryLoginOnlineList succesed!
+2015-5-7 22:34:25: SQLite writeLogin succesed!
+2015-5-7 22:34:25: SQLite writeLoginOnline succesed!
+2015-5-7 22:34:25: connectServer success,session is 201505072234253425599217
+2015-5-7 22:34:54: SQLite isSessionOnline succesed!
+2015-5-7 22:34:54: SQLite modifyLoginOnline succesed!
+2015-5-7 22:35:02: SQLite delLoginOnline succesed!
+2015-5-7 22:35:03: SQLite modifyLogin succesed!
+2015-5-7 22:35:14: SQLite writeLogin succesed!
+2015-5-7 22:35:14: SQLite writeLoginOnline succesed!
+2015-5-7 22:35:14: connectServer success,session is 201505072235143514780944
+2015-5-7 22:35:21: SQLite delLoginOnline succesed!
+2015-5-7 22:35:21: SQLite modifyLogin succesed!
+2015-5-7 22:35:48: SQLite writeLogin succesed!
+2015-5-7 22:35:48: SQLite writeLoginOnline succesed!
+2015-5-7 22:35:48: connectServer success,session is 201505072235483548828871
+2015-5-7 22:36:11: SQLite writeLogin succesed!
+2015-5-7 22:36:11: SQLite writeLoginOnline succesed!
+2015-5-7 22:36:11: connectServer success,session is 201505072236113611535489
+2015-5-7 22:57:19: SQLite writeLogin succesed!
+2015-5-7 22:57:19: SQLite writeLoginOnline succesed!
+2015-5-7 22:57:19: connectServer success,session is 201505072257195719344710
+2015-5-7 22:57:21: SQLite delLoginOnline succesed!
+2015-5-7 22:57:21: SQLite modifyLogin succesed!
+2015-5-7 22:57:48: SQLite isSessionOnline succesed!
+2015-5-7 22:57:48: no online session!
+2015-5-7 23:01:22: SQLite writeLogin succesed!
+2015-5-7 23:01:22: SQLite writeLoginOnline succesed!
+2015-5-7 23:01:22: connectServer success,session is 20150507230122122269938
+2015-5-7 23:01:28: SQLite delLoginOnline succesed!
+2015-5-7 23:01:28: SQLite modifyLogin succesed!
+2015-5-7 23:06:02: SQLite writeLogin succesed!
+2015-5-7 23:06:02: SQLite writeLoginOnline succesed!
+2015-5-7 23:06:02: connectServer success,session is 2015050723060262098791
+2015-5-7 23:06:11: SQLite writeLogin succesed!
+2015-5-7 23:06:11: SQLite writeLoginOnline succesed!
+2015-5-7 23:06:11: connectServer success,session is 20150507230611611498081
+2015-5-7 23:06:18: SQLite isSessionOnline succesed!
+2015-5-7 23:06:18: SQLite queryPasswdList succesed!
+2015-5-7 23:06:18: SQLite queryPasswdList failed!
+2015-5-7 23:06:23: SQLite isSessionOnline succesed!
+2015-5-7 23:06:23: SQLite queryPasswdList succesed!
+2015-5-7 23:06:23: SQLite queryPasswdList failed!
+2015-5-7 23:06:37: SQLite isSessionOnline succesed!
+2015-5-7 23:06:37: SQLite queryPasswdList succesed!
+2015-5-7 23:06:37: SQLite queryPasswdList failed!
+2015-5-7 23:06:38: SQLite isSessionOnline succesed!
+2015-5-7 23:06:38: SQLite queryPasswdList succesed!
+2015-5-7 23:06:38: SQLite queryPasswdList failed!
+2015-5-7 23:06:40: SQLite delLoginOnline succesed!
+2015-5-7 23:06:40: SQLite modifyLogin succesed!
+2015-5-7 23:06:40: SQLite isSessionOnline succesed!
+2015-5-7 23:06:40: no online session!
+2015-5-7 23:07:07: SQLite delPasswd succesed!
+2015-5-7 23:07:07: SQLite writePassword succesed!
+2015-5-7 23:07:14: SQLite writeLogin succesed!
+2015-5-7 23:07:14: SQLite writeLoginOnline succesed!
+2015-5-7 23:07:14: connectServer success,session is 20150507230714714778743
+2015-5-7 23:07:18: SQLite isSessionOnline succesed!
+2015-5-7 23:07:18: SQLite queryPasswdList succesed!
+2015-5-7 23:07:18: SQLite queryPasswdList failed!
+2015-5-7 23:07:26: SQLite writeLogin succesed!
+2015-5-7 23:07:26: SQLite writeLoginOnline succesed!
+2015-5-7 23:07:26: connectServer success,session is 20150507230726726566063
+2015-5-7 23:07:30: SQLite isSessionOnline succesed!
+2015-5-7 23:07:30: SQLite queryPasswdList succesed!
+2015-5-7 23:07:30: SQLite queryPasswdList failed!
+2015-5-7 23:07:34: SQLite isSessionOnline succesed!
+2015-5-7 23:07:34: SQLite queryPasswdList succesed!
+2015-5-7 23:07:34: SQLite queryPasswdList failed!
+2015-5-7 23:07:48: thrift Server Begin！
+2015-5-7 23:08:37: SQLite writeLogin succesed!
+2015-5-7 23:08:37: SQLite writeLoginOnline succesed!
+2015-5-7 23:08:37: connectServer success,session is 20150507230837837537427
+2015-5-7 23:09:04: SQLite isSessionOnline succesed!
+2015-5-7 23:09:04: SQLite modifyLoginOnline succesed!
+2015-5-7 23:09:18: SQLite queryLoginOnlineList succesed!
+2015-5-7 23:09:18: SQLite delLoginOnline succesed!
+2015-5-7 23:09:18: SQLite delLoginOnline succesed!
+2015-5-7 23:09:18: SQLite delLoginOnline succesed!
+2015-5-7 23:09:18: SQLite delLoginOnline succesed!
+2015-5-7 23:09:18: SQLite delLoginOnline succesed!
+2015-5-7 23:09:18: SQLite delLoginOnline succesed!
+2015-5-7 23:15:10: SQLite isSessionOnline succesed!
+2015-5-7 23:15:10: no online session!
+2015-5-7 23:15:17: SQLite writeLogin succesed!
+2015-5-7 23:15:17: SQLite writeLoginOnline succesed!
+2015-5-7 23:15:17: connectServer success,session is 201505072315171517512769
+2015-5-7 23:15:28: SQLite isSessionOnline succesed!
+2015-5-7 23:15:28: SQLite queryPasswdList succesed!
+2015-5-7 23:15:28: SQLite queryPasswdList failed!
+2015-5-7 23:15:45: SQLite isSessionOnline succesed!
+2015-5-7 23:15:45: SQLite modifyLoginOnline succesed!
+2015-5-7 23:19:43: SQLite isSessionOnline succesed!
+2015-5-7 23:19:46: SQLite queryPasswdList succesed!
+2015-5-7 23:19:46: SQLite queryPasswdList failed!
+2015-5-7 23:27:29: thrift Server Begin！
+2015-5-7 23:27:39: SQLite writeLogin succesed!
+2015-5-7 23:27:39: SQLite writeLoginOnline succesed!
+2015-5-7 23:27:39: connectServer success,session is 201505072327392739913998
+2015-5-7 23:27:43: SQLite isSessionOnline succesed!
+2015-5-7 23:27:43: SQLite queryPasswdList failed!
+2015-5-7 23:28:12: SQLite writeLogin succesed!
+2015-5-7 23:28:12: SQLite writeLoginOnline succesed!
+2015-5-7 23:28:12: connectServer success,session is 201505072328122812059037
+2015-5-7 23:28:16: SQLite isSessionOnline succesed!
+2015-5-7 23:28:20: SQLite queryPasswdList failed!
+2015-5-7 23:28:53: thrift Server Begin！
+2015-5-7 23:28:56: SQLite writeLogin succesed!
+2015-5-7 23:28:56: SQLite writeLoginOnline succesed!
+2015-5-7 23:28:56: connectServer success,session is 201505072328562856544422
+2015-5-7 23:28:59: SQLite isSessionOnline succesed!
+2015-5-7 23:29:38: thrift Server Begin！
+2015-5-7 23:29:41: SQLite writeLogin succesed!
+2015-5-7 23:29:41: SQLite writeLoginOnline succesed!
+2015-5-7 23:29:41: connectServer success,session is 201505072329412941724303
+2015-5-7 23:29:45: SQLite isSessionOnline succesed!
+2015-5-7 23:29:49: SQLite queryPasswdList succesed!
+2015-5-7 23:30:36: thrift Server Begin！
+2015-5-7 23:30:40: SQLite writeLogin succesed!
+2015-5-7 23:30:40: SQLite writeLoginOnline succesed!
+2015-5-7 23:30:40: connectServer success,session is 201505072330403040409998
+2015-5-7 23:30:43: SQLite isSessionOnline succesed!
+2015-5-7 23:30:45: SQLite queryPasswdList succesed!
+2015-5-7 23:30:59: SQLite isSessionOnline succesed!
+2015-5-7 23:31:01: SQLite queryPasswdList succesed!
+2015-5-7 23:31:07: SQLite isSessionOnline succesed!
+2015-5-7 23:31:07: SQLite queryPasswdList succesed!
+2015-5-7 23:31:09: SQLite isSessionOnline succesed!
+2015-5-7 23:31:09: SQLite queryPasswdList succesed!
+2015-5-7 23:31:09: SQLite isSessionOnline succesed!
+2015-5-7 23:31:09: SQLite modifyLoginOnline succesed!
+2015-5-7 23:31:10: SQLite isSessionOnline succesed!
+2015-5-7 23:31:10: SQLite queryPasswdList succesed!
+2015-5-7 23:31:12: SQLite isSessionOnline succesed!
+2015-5-7 23:31:12: SQLite queryPasswdList succesed!
+2015-5-7 23:31:20: SQLite isSessionOnline succesed!
+2015-5-7 23:31:20: SQLite queryPasswdList succesed!
+2015-5-7 23:31:22: SQLite isSessionOnline succesed!
+2015-5-7 23:31:22: SQLite queryPasswdList succesed!
+2015-5-7 23:31:26: SQLite isSessionOnline succesed!
+2015-5-7 23:31:26: SQLite queryPasswdList succesed!
+2015-5-7 23:31:37: SQLite isSessionOnline succesed!
+2015-5-7 23:31:37: SQLite queryPasswdList succesed!
+2015-5-7 23:33:11: thrift Server Begin！
+2015-5-7 23:33:15: SQLite writeLogin succesed!
+2015-5-7 23:33:15: SQLite writeLoginOnline succesed!
+2015-5-7 23:33:15: connectServer success,session is 201505072333153315145195
+2015-5-7 23:33:19: SQLite isSessionOnline succesed!
+2015-5-7 23:33:19: SQLite queryPasswdList succesed!
+2015-5-7 23:33:23: SQLite isSessionOnline succesed!
+2015-5-7 23:33:23: SQLite queryPasswdList succesed!
+2015-5-7 23:33:26: SQLite isSessionOnline succesed!
+2015-5-7 23:33:26: SQLite queryPasswdList succesed!
+2015-5-7 23:33:45: SQLite isSessionOnline succesed!
+2015-5-7 23:33:45: SQLite modifyLoginOnline succesed!
+2015-5-7 23:34:41: SQLite queryLoginOnlineList succesed!
+2015-5-7 23:34:41: SQLite delLoginOnline succesed!
+2015-5-7 23:34:41: SQLite delLoginOnline succesed!
+2015-5-7 23:34:41: SQLite delLoginOnline succesed!
+2015-5-7 23:34:41: SQLite delLoginOnline succesed!
+2015-5-7 23:34:41: SQLite delLoginOnline succesed!
+2015-5-7 23:34:41: SQLite delLoginOnline succesed!
+2015-5-7 23:35:20: SQLite delPasswd succesed!
+2015-5-7 23:35:20: SQLite writePassword succesed!
+2015-5-7 23:35:24: SQLite delPasswd succesed!
+2015-5-7 23:35:24: SQLite writePassword succesed!
+2015-5-7 23:35:27: SQLite delPasswd succesed!
+2015-5-7 23:35:27: SQLite writePassword succesed!
+2015-5-7 23:35:31: SQLite delPasswd succesed!
+2015-5-7 23:35:31: SQLite writePassword succesed!
+2015-5-7 23:35:35: SQLite delPasswd succesed!
+2015-5-7 23:35:35: SQLite writePassword succesed!
+2015-5-7 23:35:38: SQLite delPasswd succesed!
+2015-5-7 23:35:38: SQLite writePassword succesed!
+2015-5-7 23:35:55: SQLite delPasswd succesed!
+2015-5-7 23:35:55: SQLite writePassword succesed!
+2015-5-7 23:35:57: SQLite delPasswd succesed!
+2015-5-7 23:35:57: SQLite writePassword succesed!
+2015-5-7 23:36:04: SQLite isSessionOnline succesed!
+2015-5-7 23:36:04: SQLite queryPasswdList succesed!
+2015-5-7 23:36:08: SQLite isSessionOnline succesed!
+2015-5-7 23:36:08: SQLite queryPasswdList succesed!
+2015-5-7 23:36:12: SQLite isSessionOnline succesed!
+2015-5-7 23:36:12: SQLite queryPasswdList succesed!
+2015-5-7 23:36:17: SQLite isSessionOnline succesed!
+2015-5-7 23:36:17: SQLite queryPasswdList succesed!
+2015-5-7 23:36:22: SQLite isSessionOnline succesed!
+2015-5-7 23:36:22: SQLite queryPasswdList succesed!
+2015-5-7 23:36:28: SQLite isSessionOnline succesed!
+2015-5-7 23:36:28: SQLite queryPasswdList succesed!
+2015-5-7 23:36:34: SQLite isSessionOnline succesed!
+2015-5-7 23:36:34: SQLite queryPasswdList succesed!
+2015-5-7 23:36:42: SQLite isSessionOnline succesed!
+2015-5-7 23:36:42: SQLite queryPasswdList succesed!
+2015-5-7 23:36:46: SQLite isSessionOnline succesed!
+2015-5-7 23:36:46: SQLite queryPasswdList succesed!
+2015-5-7 23:37:25: SQLite delLoginOnline succesed!
+2015-5-7 23:37:25: SQLite modifyLogin succesed!

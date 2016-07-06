@@ -1,0 +1,79 @@
+2015-4-8 13:56:10: thrift Server Begin！
+2015-4-8 13:56:28: thrift Server Begin！
+2015-4-8 13:56:42: connectServer success,session is 201504081356425642324770
+2015-4-8 14:33:53: thrift Server Begin！
+2015-4-8 14:34:00: connectServer success,session is 20150408143400340260139
+2015-4-8 14:39:44: thrift Server Begin！
+2015-4-8 14:49:05: thrift Server Begin！
+2015-4-8 14:50:12: thrift Server Begin！
+2015-4-8 15:03:39: SQLite createLogin succesed!
+2015-4-8 15:03:39: thrift Server Begin！
+2015-4-8 15:13:48: thrift Server Begin！
+2015-4-8 15:13:53: SQLite writeLogin failed!
+2015-4-8 15:13:53: connectServer success,session is 201504081513531353571899
+2015-4-8 15:15:00: thrift Server Begin！
+2015-4-8 15:16:21: thrift Server Begin！
+2015-4-8 15:16:51: thrift Server Begin！
+2015-4-8 15:17:37: thrift Server Begin！
+2015-4-8 15:17:44: SQLite writeLogin succesed!
+2015-4-8 15:17:44: connectServer success,session is 201504081517401740766902
+2015-4-8 15:22:53: thrift Server Begin！
+2015-4-8 15:23:08: SQLite writeLogin succesed!
+2015-4-8 15:23:08: connectServer success,session is 20150408152305235510641
+2015-4-8 15:29:56: thrift Server Begin！
+2015-4-8 15:53:11: thrift Server Begin！
+2015-4-8 15:53:16: SQLite writeLogin succesed!
+2015-4-8 15:53:16: connectServer success,session is 201504081553165316311930
+2015-4-8 15:53:44: SQLite writeLogin succesed!
+2015-4-8 15:53:44: connectServer success,session is 201504081553445344067091
+2015-4-8 15:53:56: SQLite writeLogin succesed!
+2015-4-8 15:53:56: connectServer success,session is 201504081553565356749733
+2015-4-8 16:01:03: thrift Server Begin！
+2015-4-8 16:01:05: SQLite writeLogin succesed!
+2015-4-8 16:01:05: connectServer success,session is 2015040816010515609874
+2015-4-8 16:04:30: SQLite writeLogin succesed!
+2015-4-8 16:04:30: connectServer success,session is 20150408160430430624872
+2015-4-8 16:11:12: thrift Server Begin！
+2015-4-8 16:11:19: SQLite writeLogin succesed!
+2015-4-8 16:11:19: connectServer success,session is 201504081611191119653906
+2015-4-8 16:11:50: SQLite writeLogin succesed!
+2015-4-8 16:11:50: connectServer success,session is 201504081611501150323709
+2015-4-8 16:15:35: thrift Server Begin！
+2015-4-8 16:15:41: SQLite writeLogin succesed!
+2015-4-8 16:15:41: connectServer success,session is 201504081615411541012306
+2015-4-8 16:17:26: thrift Server Begin！
+2015-4-8 16:17:28: SQLite writeLogin succesed!
+2015-4-8 16:17:28: connectServer success,session is 201504081617271727457794
+2015-4-8 16:18:52: SQLite writeLogin succesed!
+2015-4-8 16:18:52: connectServer success,session is 201504081618521852315436
+2015-4-8 16:20:02: SQLite writeLogin succesed!
+2015-4-8 16:20:02: connectServer success,session is 20150408162002202234462
+2015-4-8 16:21:54: SQLite writeLogin succesed!
+2015-4-8 16:21:54: connectServer success,session is 201504081621542154265013
+2015-4-8 16:23:28: thrift Server Begin！
+2015-4-8 16:23:45: thrift Server Begin！
+2015-4-8 16:23:47: SQLite writeLogin succesed!
+2015-4-8 16:23:47: connectServer success,session is 201504081623472347487446
+2015-4-8 16:25:59: SQLite writeLogin succesed!
+2015-4-8 16:25:59: connectServer success,session is 201504081625592559975243
+2015-4-8 16:32:42: thrift Server Begin！
+2015-4-8 16:32:44: SQLite writeLogin succesed!
+2015-4-8 16:32:44: connectServer success,session is 201504081632443244392801
+2015-4-8 16:45:28: SQLite writeLogin succesed!
+2015-4-8 16:45:28: connectServer success,session is 201504081645284528618533
+2015-4-8 16:46:06: SQLite writeLogin succesed!
+2015-4-8 16:46:06: connectServer success,session is 20150408164606466763078
+2015-4-8 16:47:34: SQLite writeLogin succesed!
+2015-4-8 16:47:34: connectServer success,session is 201504081647344734890864
+2015-4-8 16:48:18: SQLite writeLogin succesed!
+2015-4-8 16:48:18: connectServer success,session is 201504081648184818644547
+2015-4-8 16:59:51: SQLite writeLogin succesed!
+2015-4-8 16:59:51: connectServer success,session is 201504081659515951954556
+2015-4-8 19:09:17: thrift Server Begin！
+2015-4-8 19:09:38: thrift Server Begin！
+2015-4-8 19:12:49: SQLite writeLogin succesed!
+2015-4-8 19:12:49: connectServer success,session is 201504081912491249350183
+2015-4-8 19:13:19: SQLite writeLogin succesed!
+2015-4-8 19:13:19: connectServer success,session is 201504081913191319695162
+2015-4-8 19:14:25: SQLite writeLogin succesed!
+2015-4-8 19:14:25: connectServer success,session is 201504081914251425741017

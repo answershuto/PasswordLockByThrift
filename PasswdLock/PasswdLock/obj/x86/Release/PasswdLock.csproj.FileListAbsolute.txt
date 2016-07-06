@@ -1,0 +1,11 @@
+G:\VS程序\C#\毕业设计\PasswdLock\PasswdLock\bin\Release\PasswdLock.exe
+G:\VS程序\C#\毕业设计\PasswdLock\PasswdLock\bin\Release\PasswdLock.pdb
+G:\VS程序\C#\毕业设计\PasswdLock\PasswdLock\bin\Release\System.Data.SQLite.dll
+G:\VS程序\C#\毕业设计\PasswdLock\PasswdLock\bin\Release\Thrift.dll
+G:\VS程序\C#\毕业设计\PasswdLock\PasswdLock\obj\x86\Release\ResolveAssemblyReference.cache
+G:\VS程序\C#\毕业设计\PasswdLock\PasswdLock\obj\x86\Release\PasswdLock.exe
+G:\VS程序\C#\毕业设计\PasswdLock\PasswdLock\obj\x86\Release\PasswdLock.pdb
+G:\VS程序\C#\毕业设计\可执行文件\PasswdLock.exe
+G:\VS程序\C#\毕业设计\可执行文件\PasswdLock.pdb
+G:\VS程序\C#\毕业设计\可执行文件\锁-服务端\PasswdLock.exe
+G:\VS程序\C#\毕业设计\可执行文件\锁-服务端\PasswdLock.pdb
